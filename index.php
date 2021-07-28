@@ -278,7 +278,7 @@ if (isset($_GET["homeID"])) {
                             Phone
                         </h5>
                         <p class="footer-contact-block__content">
-                            <a href="tel:+1975432345">+972 52 723 685</a>
+                            <a href="tel:+1975432345">+972 52 723 6852</a>
                         </p>
                     </div> <!-- end footer-contact-block -->
                     <div class="footer-contact-block" data-aos="fade-up">
